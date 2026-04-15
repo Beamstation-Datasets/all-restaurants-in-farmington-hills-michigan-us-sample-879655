@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census covering Farmington Hills, Michigan. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Farmington Hills, Michigan, US",
+  "export_job_id": "aa45ad11-bc3a-4459-8219-8212e8726d44",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 879655,
+  "location_name": "Farmington Hills",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-farmington-hills-michigan-us-sample-879655",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/879655/beamstation_879655_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_pct": 8.93,
+  "sample_records": 20,
+  "sample_sha256": "c2b4066b420924a1830ba59aa10526203f53ccaafadf4fbaf9de253e4cb2ecb1",
+  "sample_size_bytes": 84217,
+  "total_records": 224,
+  "updated_at": "2026-04-07T13:39:04.915450+00:00"
+}
