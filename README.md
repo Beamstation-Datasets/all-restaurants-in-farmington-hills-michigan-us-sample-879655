@@ -9,9 +9,9 @@
 | Dataset ID | `879655` |
 | Location | Farmington Hills |
 | Category | Restaurants |
-| Full dataset size | 224 records |
-| Free sample size | 20 records (8.93%) |
-| Last export | 2026-04-07T13:39:04.915450+00:00 |
+| Full dataset size | 209 records |
+| Free sample size | 20 records (9.57%) |
+| Last export | 2026-04-14T20:45:26.776956+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-farmington-hills-michigan-us-sample-879655/releases/download/sample-latest/beamstation_879655_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
