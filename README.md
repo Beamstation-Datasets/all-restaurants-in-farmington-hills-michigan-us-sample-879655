@@ -1,6 +1,6 @@
 # All Restaurants in Farmington Hills, Michigan, US
 
-> Free BeamStation sample export with 20 rows and masked direct-contact fields.
+> Free BeamStation sample export with 16 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `879655` |
 | Location | Farmington Hills |
 | Category | Restaurants |
-| Full dataset size | 209 records |
-| Free sample size | 20 records (9.57%) |
-| Last export | 2026-04-14T20:45:26.776956+00:00 |
+| Full dataset size | 168 records |
+| Free sample size | 16 records (9.52%) |
+| Last export | 2026-04-21T23:07:09.458324+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-farmington-hills-michigan-us-sample-879655/releases/download/sample-latest/beamstation_879655_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
