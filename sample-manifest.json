@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4f372f32-0610-427a-9b36-c161069c3356",
+  "export_job_id": "eb2fa8c3-26d7-496b-b0af-23dbead91ca0",
   "id_short": 879655,
-  "published_at": "2026-04-29T07:17:23Z",
+  "published_at": "2026-05-08T19:09:53Z",
   "repo_name": "all-restaurants-in-farmington-hills-michigan-us-sample-879655",
   "sample_asset_name": "beamstation_879655_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/879655/beamstation_879655_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_records": 22,
-  "sample_sha256": "15a536fe562cf97e65268bb57c9d76ed20fa5bfd0d5ad6795c15f97417ecfe70",
-  "sample_size_bytes": 90852,
-  "total_records": 225
+  "sample_sha256": "4f4684be4609994adca8a40651e771df1cf82eb6f574be900f347d218c70c7e5",
+  "sample_size_bytes": 93005,
+  "total_records": 228
 }
